@@ -5,21 +5,9 @@
 </p>
 <br />
 
-<p align="center">I am an enthusiastic selftaught Accessibility & Frontend developer since 2020.</p>
-<p>I am a mentor by 💙 helping people switching careers into tech too. Therefore, you should check out my <a href="https://yuriscodingclub.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p>
+<p align="center">Я занимаюсь Front разработкой с 2021 года. </p>
 
-<h3 align="center">💟 Open Source & Community</h3>
-<br />
-
-<p>From time to time I am contributing to open source to improve projects web accessibility. I also have my own <a href="https://github.com/YurisCodingClub">open source projects</a> to contribute to. Beginners are very welcome 😇.</p>
-<br />
-
-![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo.svg#gh-light-mode-only)
-![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo-dark.png#gh-dark-mode-only)
-
-<br />
-
-<h3 align="center"> 💼 Languages and Tools</h3>
+<h3 align="center"> 👩‍💻 Языки и инстременты 💻</h3>
 
 <br />
 
