@@ -1,4 +1,6 @@
-  <h1 align="center"><b>Hi there, I'm Julia 
+<p>
+  <h1 align="center"><b>Hi there, I'm Julia <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+</p>
 <p align="center">
 <a href="https://juliaundeutsch.com/"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
