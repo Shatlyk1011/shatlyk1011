@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/-Figma-ff3b00?&style=for-the-badge&logo=figma&logoColor=white" /> 
   <img src="https://img.shields.io/badge/NEXT-202020?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-tailwind-06b6d4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-firebase-FFCB2B?&style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />  
+  
+  
 </p>
