@@ -1,7 +1,5 @@
 # Hey, I'm Shat ✨
 
-🚀 Software Engineer
-
 Check out my projects 👇
 
 ## ✅ Current Projects
