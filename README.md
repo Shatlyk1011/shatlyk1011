@@ -4,7 +4,7 @@ Check out my projects 👇
 
 ## ✅ Current Projects
 
-- 🎨 **[Emerald UI](https://www.emerald-ui.com/?ref=github.com)** — Inspiration websites & UI components collection  
+- 🎨 **[Emerald UI](https://github.com/shatlyk1011/emerald-ui)** — Inspiration websites & UI components collection  
 - ✍️ **[Blog](https://github.com/Shatlyk1011/blog-website-v2)** — Personal blog platform  
 
 ## 🗃️ Past Works
