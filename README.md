@@ -2,13 +2,11 @@
 
 Check out my projects 👇
 
-## ✅ Current Projects
-
+#### Current Projects
 - 🎨 **[Emerald UI](https://github.com/shatlyk1011/emerald-ui)** — Inspiration websites & UI components collection  
 - ✍️ **[Blog](https://github.com/Shatlyk1011/blog-website-v2)** — Personal blog platform  
 
-## 🗃️ Past Works
-
+#### Past Works
 - 🧩 **[Edil Ozi](https://github.com/Shatlyk1011/edil-ozi)** — Component library for React developers  
 - 📻 **[Radio App](https://github.com/Shatlyk1011/radio-record-copy)** — Radio Record website clone
 - 🍔 **[Ashpez](https://github.com/Shatlyk1011/food-delivery-app)** — Full-stack food delivery application
@@ -18,7 +16,7 @@ Check out my projects 👇
 - 🔍 **[Yandex Website](https://github.com/Shatlyk1011/yx-front)** — Responsive landing page
 
 
-## 📫 Connect
+#### Connect
 
 - 🌐 [Website](https://shatlykabdullayev.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shatlyk1011/)  
