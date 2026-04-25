@@ -7,7 +7,7 @@ Check out my projects 👇
 - ✍️ **[Blog](https://github.com/Shatlyk1011/blog-website-v2)** — Personal blog platform  
 
 #### Past Works
-- 🧩 **[Edil Ozi](https://github.com/Shatlyk1011/edil-ozi)** — Component library for React developers  
+- 🧩 **[Edil Ozi](https://github.com/Edil-ozi/edil-ozi)** — Component library for React developers  
 - 📻 **[Radio App](https://github.com/Shatlyk1011/radio-record-copy)** — Radio Record website clone
 - 🍔 **[Ashpez](https://github.com/Shatlyk1011/food-delivery-app)** — Full-stack food delivery application
 - 💼 **[Ganat](https://github.com/Shatlyk1011/jobs-application)** — Job board & mentor platform
