@@ -3,10 +3,15 @@
 Check out my projects 👇
 
 #### Current Projects
-- 🎨 **[Emerald UI](https://github.com/shatlyk1011/emerald-ui)** — Inspiration websites & UI components collection  
-- ✍️ **[Blog](https://github.com/Shatlyk1011/blog-website-v2)** — Personal blog platform  
 
-#### Past Works
+- 🎨 **[Emerald UI](https://github.com/shatlyk1011/emerald-ui)** — Inspiration websites & UI components collection
+- 🔊 **[Sound Blog](https://github.com/Shatlyk1011/sound-blog)** — Turn your voice recording into well-formatted, detailed text (release 05.15.26)
+- 💼 **[Website](https://github.com/Shatlyk1011/personal-website)** — Personal website
+- ✍️ **[Blog](https://github.com/Shatlyk1011/blog-website-v2)** — Personal blog platform
+
+
+#### Legacy Work
+
 - 🧩 **[Edil Ozi](https://github.com/Edil-ozi/edil-ozi)** — Component library for React developers  
 - 📻 **[Radio App](https://github.com/Shatlyk1011/radio-record-copy)** — Radio Record website clone
 - 🍔 **[Ashpez](https://github.com/Shatlyk1011/food-delivery-app)** — Full-stack food delivery application
