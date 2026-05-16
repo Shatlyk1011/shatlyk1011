@@ -5,7 +5,7 @@ Check out my projects 👇
 #### Current Projects
 
 - 🎨 **[Emerald UI](https://github.com/shatlyk1011/emerald-ui)** — Inspiration websites & UI components collection
-- 🔊 **[Sound Blog](https://github.com/Shatlyk1011/sound-blog)** — Turn your voice recording into well-formatted, detailed text (release 05.15.26)
+- 🔊 **[Sound Blog](https://github.com/Shatlyk1011/sound-blog)** — Turn your voice recording into well-formatted, detailed text (release upd 06.01.26)
 - 💼 **[Website](https://github.com/Shatlyk1011/personal-website)** — Personal website
 - ✍️ **[Blog](https://github.com/Shatlyk1011/blog-website-v2)** — Personal blog platform
 
