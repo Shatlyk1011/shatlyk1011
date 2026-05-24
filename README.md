@@ -25,7 +25,6 @@ Check out my projects 👇
 
 - 🌐 [Website](https://shatlykabdullayev.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shatlyk1011/)  
-- 📸 [Instagram (works)](https://instagram.com/devbyshat)
 - 🎬 [Youtube](https://youtube.com/@devbyshat)
 
 ---
