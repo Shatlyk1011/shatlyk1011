@@ -4,7 +4,8 @@ Check out my projects 👇
 
 #### Current Projects
 
-- 🎨 **[Emerald UI](https://github.com/shatlyk1011/emerald-ui)** — Inspiration websites & UI components collection
+- 📚 **[System Tutor](https://www.systemtutor.com)** — Software engineering courses (DSA, System Design etc.)
+- 🎨 **[Emerald UI](https://github.com/shatlyk1011/emerald-ui)** — UI components collection
 - 🔊 **[Sound Blog](https://github.com/Shatlyk1011/sound-blog)** — Turn your voice recording into well-formatted, detailed blog
 - 💼 **[Website](https://github.com/Shatlyk1011/personal-website)** — Personal website
 - ✍️ **[Blog](https://github.com/Shatlyk1011/blog-website-v2)** — Personal blog platform
