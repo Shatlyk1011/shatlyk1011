@@ -6,10 +6,10 @@ Check out my projects 👇
 
 - 📚 **[System Tutor ↗](https://www.systemtutor.com)** — Software engineering courses (DSA, System Design, CSS etc.)
 - 🎨 **[Emerald UI](https://github.com/shatlyk1011/emerald-ui)** — UI components collection
-- 🔊 **[Sound Blog](https://github.com/Shatlyk1011/sound-blog)** — Turn your voice recording into well-formatted, detailed blog
+- 🛍️ **[Bugday](https://github.com/Shatlyk1011/e-commerce-multivendor-app)** — Fullstack multivendor e commerce app build on top of medusa.js
 - 💼 **[Website](https://github.com/Shatlyk1011/personal-website)** — Personal website
 - ✍️ **[Blog Website v3](https://github.com/Shatlyk1011/blog-website-v3)** — Personal blog website with Taiga themes
-
+- 🔊 **[Sound Blog](https://github.com/Shatlyk1011/sound-blog)** — Turn your voice recording into well-formatted, detailed blog
 
 #### Legacy Work
 
