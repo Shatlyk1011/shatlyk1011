@@ -4,11 +4,11 @@ Check out my projects 👇
 
 #### Current Projects
 
-- 📚 **[System Tutor](https://www.systemtutor.com)** — Software engineering courses (DSA, System Design etc.)
+- 📚 **[System Tutor ↗](https://www.systemtutor.com)** — Software engineering courses (DSA, System Design, CSS etc.)
 - 🎨 **[Emerald UI](https://github.com/shatlyk1011/emerald-ui)** — UI components collection
 - 🔊 **[Sound Blog](https://github.com/Shatlyk1011/sound-blog)** — Turn your voice recording into well-formatted, detailed blog
 - 💼 **[Website](https://github.com/Shatlyk1011/personal-website)** — Personal website
-- ✍️ **[Blog](https://github.com/Shatlyk1011/blog-website-v2)** — Personal blog platform
+- ✍️ **[Blog Website v3](https://github.com/Shatlyk1011/blog-website-v3)** — Personal blog website with Taiga themes
 
 
 #### Legacy Work
@@ -18,6 +18,7 @@ Check out my projects 👇
 - 🍔 **[Ashpez](https://github.com/Shatlyk1011/food-delivery-app)** — Full-stack food delivery application
 - 💼 **[Ganat](https://github.com/Shatlyk1011/jobs-application)** — Job board & mentor platform
 - 🏢 **[Agency Website](https://github.com/Shatlyk1011/agency-website)** — Agency landing page
+- ✍️ **[Blog Website v2](https://github.com/Shatlyk1011/blog-website-v2)** — Personal blog website
 - 🌱 **[GreenMind](https://github.com/Shatlyk1011/greenmind-pet)** — Responsive landing page
 - 🔍 **[Yandex Website](https://github.com/Shatlyk1011/yx-front)** — Responsive landing page
 
